@@ -1,0 +1,43 @@
+# Stradia Partners
+
+> Stradia Partners is an operations systems consultancy based in Durham, North Carolina. We build secure, well-structured business systems on Airtable, Retool and Softr that replace spreadsheets and disconnected tools, give teams one source of truth, and provide clean, structured data for AI. We are an Airtable Services Partner, Retool Agency Partner and Softr Solutions Partner.
+
+Stradia works with teams that are:
+
+- Running core operations on spreadsheets and want to move to a system IT will approve.
+- Using tools that don't line up and want one process and one source of truth.
+- Already using AI and need clean, structured data for it to work from.
+
+What we do:
+
+- Choose the right platform, or mix of platforms (Airtable, Retool, Softr), for a team's data, people and IT requirements.
+- Design and build operations systems that go live in weeks, which teams can run and change themselves without filing a ticket.
+- Set up IT-ready guardrails: permissions, single sign-on and audit trails.
+- Write custom code for integrations and custom logic (full-stack engineers on staff).
+- Turn operational data into forecasts, insights and AI features (data scientists on staff).
+
+How we work: senior people only; no junior staff learning on client projects. The first conversation is a free 30-minute call with an honest look at the client's setup.
+
+Clients include teams at Duke University, Industrious, the University of Maryland Dingman-Lamone Center for Entrepreneurship, Primordial Ventures and flyExclusive.
+
+## Founders
+
+- Catie King: career product leader and strategist. [LinkedIn](https://www.linkedin.com/in/catieking/)
+- Aaron Berdanier: data scientist and AI product leader. [LinkedIn](https://www.linkedin.com/in/aaronberdanier/)
+- Sebastian Florez: software engineering leader and low-code specialist. [LinkedIn](https://www.linkedin.com/in/sebastian-florez-46b71986/)
+
+## Key pages
+
+- [Home](https://stradiapartners.com/): overview of services, platforms, client results and team
+- [Retool services](https://stradiapartners.com/retool/): Stradia's Retool Agency Partner work
+
+## Partner listings
+
+- [Airtable Services Partner profile](https://ecosystem.airtable.com/consultants/partner/stradia-partners)
+- [Softr Solutions Partner profile](https://www.softr.io/partners/stradia-partners)
+
+## Contact
+
+- [Book a free 30-minute call](https://calendly.com/stradia-partners-catie)
+- Email: info@stradiapartners.com
+- Location: Durham, North Carolina
